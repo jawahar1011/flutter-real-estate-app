@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504589340571",
+    "project_id": "propertyfinder-f3c72",
+    "storage_bucket": "propertyfinder-f3c72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504589340571:android:cacc537be7b30a0437db3e",
+        "android_client_info": {
+          "package_name": "com.example.property_finder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504589340571-fo0t06glk67bb0afem2n1fs6ins5jjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhDH672VUFMxbg-iElhxqXbS4XoqD--4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504589340571-fo0t06glk67bb0afem2n1fs6ins5jjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
